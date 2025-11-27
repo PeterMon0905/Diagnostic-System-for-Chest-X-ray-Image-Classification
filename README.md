@@ -34,6 +34,9 @@ cd Diagnostic-System-for-Chest-X-ray-Image-Classification
 ```bash
 pip install -r requirements.txt
 ```
+### 3. Download Weight
+Download this weight file and save it to the project root folder.
+[model.pth](https://github.com/PeterMon0905/Diagnostic-System-for-Chest-X-ray-Image-Classification/releases/download/v1.0.0/model.pth)
 ## Usage
 Running the Diagnostic Demo
 ```bash
